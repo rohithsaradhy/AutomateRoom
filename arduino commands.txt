@@ -1,0 +1,4 @@
+1 - off fan - 13
+2 - on
+3 - off light
+4 - on
